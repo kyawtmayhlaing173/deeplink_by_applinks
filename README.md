@@ -1,4 +1,4 @@
-### Deep Link Testing in Flutter with app_links
+# Deep Link Testing in Flutter with app_links
 This project is a Flutter application built to test deep link handling using the app_links package. It was created as part of the Medium article "Handling Deep Links in Flutter without Losing Navigation Using app_links over go_router." This approach allows for deep linking while preserving the navigation stack, addressing limitations encountered with go_router.
 
 ### Project Overview
